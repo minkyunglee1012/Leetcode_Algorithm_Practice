@@ -11,3 +11,7 @@ coding practice
 
 
 ![image](https://github.com/minkyunglee1012/Leetcode/assets/156975194/ef686ddb-41e3-4d8f-beee-d0d2b98b6145)
+
+
+일단 leetcode1은 노가다로 다 빼왔다.. 1시간 넘게 걸린듯 ㅠ ㅠ
+그래서 3/20 잔디 커밋이 200개가 넘어버렸다.
