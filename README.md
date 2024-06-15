@@ -5,6 +5,6 @@
 
 
 <h4><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> </h4>
-<h4> MK's coding practice ! </h4>
+<h4> My coding practice ! </h4>
 
 
