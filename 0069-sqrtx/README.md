@@ -14,7 +14,7 @@
 <strong>Explanation:</strong> The square root of 4 is 2, so we return 2.
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong class ="example">Example 2:</strong></p>
 
 <pre><strong>Input:</strong> x = 8
 <strong>Output:</strong> 2
