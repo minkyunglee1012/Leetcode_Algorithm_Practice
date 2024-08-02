@@ -27,6 +27,7 @@
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
+
 <ul>
 	<li><code>row == grid.length</code></li>
 	<li><code>col == grid[i].length</code></li>
