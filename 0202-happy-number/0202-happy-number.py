@@ -9,6 +9,7 @@ class Solution:
         
         if n == 1 or n == 7:
             return True
+            
         return False
         
    
