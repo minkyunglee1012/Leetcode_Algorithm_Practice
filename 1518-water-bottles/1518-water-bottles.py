@@ -2,6 +2,7 @@ class Solution:
     def numWaterBottles(self, numBottles: int, numExchange: int) -> int:
 
         bottles = numBottles
+        
         if numBottles < numExchange:
             return bottles
         
