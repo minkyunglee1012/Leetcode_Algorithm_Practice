@@ -2,6 +2,7 @@
 
 <p>The operation of drinking a full water bottle turns it into an empty bottle.</p>
 
+
 <p>Given the two integers <code>numBottles</code> and <code>numExchange</code>, return <em>the <strong>maximum</strong> number of water bottles you can drink</em>.</p>
 
 <p>&nbsp;</p>
